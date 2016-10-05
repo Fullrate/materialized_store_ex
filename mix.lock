@@ -1,0 +1,3 @@
+%{"brod": {:hex, :brod, "2.1.8", "a4057fcff23169bc395fba58f111a3d6227d92dfcae8c2385389f53d2d1bed14", [:make, :rebar3], [{:kafka_protocol, "0.4.0", [hex: :kafka_protocol, optional: false]}, {:supervisor3, "1.1.1", [hex: :supervisor3, optional: false]}]},
+  "kafka_protocol": {:hex, :kafka_protocol, "0.4.0", "2510b1696142f6e5db01e4b12d4e0c7f14b2c7aef5c2d4ed7b847d485e20e78e", [:make, :rebar3], []},
+  "supervisor3": {:hex, :supervisor3, "1.1.1", "b2b419e09f90a6346a71df4376bb6b33ad839503944ebb9db66fe7c4ef3cae3b", [:make, :rebar3], []}}
